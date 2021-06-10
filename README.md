@@ -2,9 +2,10 @@
 
 ## watashi wa nightcore desu .. i'm a developer's bot and website 
 - currently working on OtakuGirl 
-- JavaScript + Python
+- JavaScript + Python 
 - HTML + CSS
-
+- Go
+- 
 ### Connect with me:
 
 [<img align="left" alt="NightcoreAT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
