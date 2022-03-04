@@ -6,7 +6,7 @@
 - Csharp [GAME]
 ### Connect with me:
 
-[<img align="left" alt="NightcoreATDZO | Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" />][discord]
+[<img align="left" alt="NightcoreATDZO | Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" />]
 
 <br />
 
