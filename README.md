@@ -1,10 +1,10 @@
 <div align="center">
 
 ## Nightcore desu! よろしくお願いします ✨  
-```txt
+<pre>
 🧠 Crafting ideas into reality | 💖 Building with code & imagination!  
 🖤 Anime-Inspired Creativity
-```
+</pre>
 
 </div>
 
